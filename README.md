@@ -1,11 +1,11 @@
-# 📊 Dashboard de Análise de Vendas
+# 📊 Dashboard de Vendas - Hashtag
 <img width="1612" height="711" alt="image" src="https://gufoweb.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-15-162919.png" />
 
 ---
 
 # 📌 Sobre o Projeto
 
-Projeto desenvolvido para analisar o desempenho comercial de uma empresa fictícia, permitindo acompanhar indicadores estratégicos de vendas, produtos, clientes e regiões.
+Projeto desenvolvido para estudo 
 
 ---
 
